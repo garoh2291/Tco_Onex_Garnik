@@ -1,10 +1,16 @@
-import React from 'react'
+import React from "react";
+import "../styles/smart_services_head.css";
 
 export default function SmartServicesHead() {
   return (
-    <div className="text-head">
-      <h2>SMART ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ</h2>
-      <p>Նախքան առաքանու ԱՄՆ կամ Չինաստանի պահեստ հասնելը դուք կարող եք պատվիրել հետևյալ SMART ծառայությունները</p>
+    <div className="smart-head">
+      <h2>
+        <span>SMART</span> ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ
+      </h2>
+      <p>
+        Նախքան առաքանու ԱՄՆ կամ Չինաստանի պահեստ հասնելը դուք կարող եք պատվիրել
+        հետևյալ SMART ծառայությունները
+      </p>
     </div>
-  )
+  );
 }

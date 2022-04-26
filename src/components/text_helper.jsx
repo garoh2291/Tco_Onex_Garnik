@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/text_helper.css'
+import "../styles/text_helper.css";
 
 export function TextHelper() {
   return (

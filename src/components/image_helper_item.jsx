@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/image_helper.css'
+import "../styles/image_helper.css";
 
 export default function ImageHelperItem(props) {
   return (
