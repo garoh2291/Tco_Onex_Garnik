@@ -1,34 +1,52 @@
-export const serviceItems = [
+
+export const magazineSources = [
   {
-    link: "https://onex.am/images/smart_services/photo-camera.svg",
-    text: "Լուսանկարել դրսից",
+    link:"https://onex.am/images/shops/svg/amazon.svg",
+    style: "right bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/photos-inside.svg",
-    text: "Լուսանկարել ներսից",
+    link:"https://onex.am/images/shops/svg/aliexpress.svg",
+    style: "right bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/stop.svg",
-    text: "Կանգնեցնել",
+    link:"https://onex.am/images/shops/svg/ebay.svg",
+    style: "right bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/check-order.svg",
-    text: "Ստուգել պատվերը",
+    link:"https://onex.am/images/shops/svg/carters.svg",
+    style: "right bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/single-package.svg",
-    text: "Չվերափաթեթավորել",
+    link:"https://onex.am/images/shops/svg/vs.svg",
+    style: "right bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/repackaging.svg",
-    text: "Հավելյալ վերափաթեթավորում",
+    link:"https://onex.am/images/shops/svg/gap.svg",
+    style: "bottom",
   },
   {
-    link: "https://onex.am/images/smart_services/change-receiver.svg",
-    text: "Փոխել ստացողին",
+    link:"https://onex.am/images/shops/svg/mk.svg",
+    style: "right",
   },
   {
-    link: "https://onex.am/images/smart_services/unboxing.svg",
-    text: "Բաժանել մասերի",
+    link:"https://onex.am/images/shops/svg/forever21.svg",
+    style: "right",
   },
-];
+  {
+    link:"https://onex.am/images/shops/svg/hm.svg",
+    style: "right",
+  },
+  {
+    link:"https://onex.am/images/shops/svg/rl.svg",
+    style: "right",
+  },
+  {
+    link:"https://onex.am/images/shops/svg/ozon.svg",
+    style: "right",
+  },
+  {
+    link:  "https://onex.am/images/shops/svg/taobao.svg",
+    style: "",
+
+  }
+]
