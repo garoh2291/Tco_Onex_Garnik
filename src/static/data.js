@@ -1,52 +1,55 @@
-
-export const magazineSources = [
+export const FRIEND_LIST = [
   {
-    link:"https://onex.am/images/shops/svg/amazon.svg",
-    style: "right bottom",
+    userName: "Cristiano Ronaldo",
+    mutualFriend: 4,
+    imageUrl: "https://pbs.twimg.com/media/EC0Q7leWkAAgfN0.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/aliexpress.svg",
-    style: "right bottom",
+    userName: "Groot",
+    mutualFriend: 11,
+    imageUrl: "https://avatarfiles.alphacoders.com/216/216948.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/ebay.svg",
-    style: "right bottom",
+    userName: "Eva Green",
+    mutualFriend: 14,
+    imageUrl:
+      "https://i.pinimg.com/564x/00/52/03/005203e71e9c5b6838576728f302d144.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/carters.svg",
-    style: "right bottom",
+    userName: "Mark Zuckerberg",
+    mutualFriend: 123,
+    imageUrl: "https://i.imgur.com/yxpGNuM.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/vs.svg",
-    style: "right bottom",
+    userName: "Vladimir Putin",
+    mutualFriend: 5,
+    imageUrl: "https://i1.sndcdn.com/avatars-000485815041-49pefo-t500x500.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/gap.svg",
-    style: "bottom",
+    userName: "Karim Benzema",
+    mutualFriend: 21,
+    imageUrl: "https://pbs.twimg.com/media/DHfUSyMUQAAlCRf.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/mk.svg",
-    style: "right",
+    userName: "Eminem",
+    mutualFriend: 11,
+    imageUrl: "https://avatarfiles.alphacoders.com/273/thumb-273827.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/forever21.svg",
-    style: "right",
+    userName: "Adele",
+    mutualFriend: 6,
+    imageUrl: "https://avatarfiles.alphacoders.com/176/176040.jpg",
   },
   {
-    link:"https://onex.am/images/shops/svg/hm.svg",
-    style: "right",
+    userName: "Elon Musk",
+    mutualFriend: 32,
+    imageUrl:
+      "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk.jpeg",
   },
   {
-    link:"https://onex.am/images/shops/svg/rl.svg",
-    style: "right",
+    userName: "Ազատություն Ռադիոկայան",
+    mutualFriend: 32,
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm2G6ZTURTMBackCvMIA6eWRCA_6P-G5QcBwh_jwInT2OrO8pp_uDUSBU8dsyTpqhrICU&usqp=CAU",
   },
-  {
-    link:"https://onex.am/images/shops/svg/ozon.svg",
-    style: "right",
-  },
-  {
-    link:  "https://onex.am/images/shops/svg/taobao.svg",
-    style: "",
-
-  }
-]
+];

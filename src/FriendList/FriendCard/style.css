@@ -1,0 +1,65 @@
+.friend-card-item {
+  width: 450px;
+  height: 120px;
+  margin-bottom: 8px;
+  background-color: inherit;
+  box-shadow: 0 0 2px #cfcfd0;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.friend-card-info {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  height: 100%;
+  background-color: inherit;
+}
+
+.friend-info {
+  background-color: inherit;
+  margin-left: 20px;
+}
+
+.img-avatar {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.friend-name {
+  background-color: inherit;
+  font-weight: 500;
+}
+
+.mutual-friends {
+  font-size: 14px;
+  background-color: inherit;
+  color: #65676b;
+}
+
+.more-button {
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: inherit;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.more-button i {
+  background-color: inherit;
+}
+
+.more-button:hover {
+  background-color: #cfcfd0;
+}

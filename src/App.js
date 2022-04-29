@@ -1,9 +1,12 @@
 import "./App.css";
-
-import MagazineWrapper from "./Magazines";
+import { FriendList } from "./FriendList";
 
 function App() {
-  return <div className="app"></div>;
+  return (
+    <div className="app">
+      <FriendList />
+    </div>
+  );
 }
 
 export default App;

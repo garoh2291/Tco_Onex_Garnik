@@ -1,0 +1,14 @@
+.friend-list-wrapper {
+  margin: 20px auto;
+  max-width: 940px;
+  width: 100%;
+  min-height: 600px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 2px #cfcfd0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
