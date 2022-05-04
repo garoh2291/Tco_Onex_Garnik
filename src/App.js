@@ -5,8 +5,7 @@ import { UseHelper } from "./components/use_helper";
 function App() {
   return (
     <div className="wrapper">
-      <UseHelper />
-      <SmartServicesSection />
+
     </div>
   );
 }
