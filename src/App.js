@@ -1,11 +1,11 @@
 import "./App.css";
-import SmartServicesSection from "./components/smart_services_section";
-import { UseHelper } from "./components/use_helper";
+import { MirrorSection } from "./context";
+
 
 function App() {
   return (
     <div className="wrapper">
-
+      <MirrorSection/>
     </div>
   );
 }
